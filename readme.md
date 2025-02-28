@@ -6,6 +6,17 @@ The aim is to obtain the equivalent of the “country-codes.csv” file
 
 At the moment, I only parse the english links
 
+```
+pip install requirements.txt
+python scraper.py
+```
+
+Produce 3 files in an output/ directory
+
+- YYYYMMDD_country-codes.csv
+- YYYYMMDD_country-codes-collection.csv
+- YYYYMMDD_code-elements-statuses.csv
+
 ### Decoding table of ISO 3166-1 alpha-2 codes
 
 This decoding table provides the user with a quick overview of the entire set of alpha-2 codes, some of which are reserved for the exclusive use in the ISO 3166-1 country code standard.
