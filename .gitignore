@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# Output files
+output/
+
+>>>>>>> 93e1039 (push locally develop scraper for iso3166)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -168,4 +174,8 @@ cython_debug/
 #.idea/
 
 # PyPI configuration file
+<<<<<<< HEAD
 .pypirc
+=======
+.pypirc
+>>>>>>> 93e1039 (push locally develop scraper for iso3166)
