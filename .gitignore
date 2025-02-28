@@ -3,7 +3,12 @@
 # Output files
 output/
 
+<<<<<<< HEAD
 >>>>>>> 93e1039 (push locally develop scraper for iso3166)
+=======
+.DS_Store
+
+>>>>>>> 6218a12 (.gitignore udpate)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
